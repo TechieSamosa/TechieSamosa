@@ -4,7 +4,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?center=True&lines=ML+Engineer;AI+Engineer;Data+Scientist;Research+Scientist"><br>
+  <img src="https://readme-typing-svg.herokuapp.com/?center=True&lines=ML+Engineer;AI+Engineer;Data+Scientist;Research;Scientist"><br>
 </p>
 
 <p align="center">
