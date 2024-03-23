@@ -1,6 +1,6 @@
-<h3 align="center">
-  Vannakam! I'm Aditya Khamitkar!
-</h3>
+<h1 align="center">
+  नमस्कार:! I'm Aditya Khamitkar!
+</h1>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
@@ -8,8 +8,12 @@
 </p>
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/D4D12AQFOan67rg3q8Q/article-cover_image-shrink_720_1280/0/1693761336583?e=1715817600&v=beta&t=rGOyAplhJMx3gxqonyh_x4tbcrR2m62RVOrFg76h1Zw" width="40%">
+  <img src="https://media.licdn.com/dms/image/D4D12AQFOan67rg3q8Q/article-cover_image-shrink_720_1280/0/1693761336583?e=1715817600&v=beta&t=rGOyAplhJMx3gxqonyh_x4tbcrR2m62RVOrFg76h1Zw" width="75%">
 </p>
+
+<blockquote align="center">
+  <p>मा कदापि त्यज</p>
+</blockquote>
 
 ## 🙋‍♂️ Connect with me
 
@@ -53,43 +57,42 @@
 ### 🧰 Frameworks and libraries
 
 <p align="center">
-    <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/-github%20actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"></a>
-    <a href="#"><img alt="Tensorflow" src="https://img.shields.io/badge/-tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
-    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/-numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"></a>
-    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/-pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"></a>
-    <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/-matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white"></a>
-    <a href="#"><img alt="Seaborn" src="https://img.shields.io/badge/-seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white"></a>
-    <a href="#"><img alt="Scikit-Learn" src="https://img.shields.io/badge/-scikit%20klearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" ></a>
-    <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/-opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=black"></a>
+    <a href="#"><img alt="Keras" src="https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"></a>
+    <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"></a>
+    <a href="#"><img alt="Tensorflow" src="https://img.shields.io/badge/-Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
+    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"></a>
+    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"></a>
+    <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white"></a>
+    <a href="#"><img alt="Seaborn" src="https://img.shields.io/badge/-Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white"></a>
+    <a href="#"><img alt="Scikit-Learn" src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" ></a>
+    <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=black"></a>
+    <a href="#"><img alt="NLTK" src="https://img.shields.io/badge/-NLTK-8BBE3F?style=for-the-badge&logo=nltk&logoColor=white"></a>
+    <a href="#"><img alt="Joblib" src="https://img.shields.io/badge/-Joblib-51B749?style=for-the-badge&logoColor=white"></a>
 </p>
 
 ### 🗄️ Databases, cloud hosting and deployment
 
 <p align="center">
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/-github%20pages-222222?style=for-the-badge&logo=githubpages&logoColor=white"></a>
-    <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/-replit-667881?style=for-the-badge&logo=replit&logoColor=white"></a>
-    <a href="#"><img alt="Overleaf" src="https://img.shields.io/badge/-overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white"></a>
-    <a href="#"><img alt="WordPress" src ="https://img.shields.io/badge/-wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"></a>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/-mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>  
-    <a href="#"><img alt="Flask" src="https://img.shields.io/badge/-flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a> 
-    <a href="#"><img alt="Amazon AWS" src="https://img.shields.io/badge/-amazon%20aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"></a> 
-    <a href="#"><img alt="Google Colab" src="https://img.shields.io/badge/google%20colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"></a> 
+<a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/-Repl.it-667881?style=for-the-badge&logo=replit&logoColor=white"></a>
+<a href="#"><img alt="Overleaf" src="https://img.shields.io/badge/-Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white"></a>
+<a href="#"><img alt="WordPress" src ="https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"></a>
+<a href="#"><img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
+<a href="#"><img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a>
+<a href="#"><img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"></a>
+<a href="#"><img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"></a>
+
 </p>
-
-### 💻 Software and tools
-
+💻 Software and tools
 <p align="center">
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/-git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/-jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/-visual%20studio%20code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"></a>
 </p>
-
-### 🪟 Operating Systems
-
+🪟 Operating Systems
 <p align="center">
-    <a href="#"><img alt="Windows" src="https://img.shields.io/badge/-windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
-    <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/-ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
-    <a href="#"><img alt="Fedora" src="https://img.shields.io/badge/-fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"></a>
-    <a href="#"><img alt="Kali Linux" src="https://img.shields.io/badge/-kali%20linux-557C94?style=for-the-badge&logo=kali%20linux&logoColor=white"></a>
+    <a href="#"><img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
+    <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
+    <a href="#"><img alt="Fedora" src="https://img.shields.io/badge/-Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"></a>
+    <a href="#"><img alt="Kali Linux" src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kali%20linux&logoColor=white"></a>
 </p>
-
