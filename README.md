@@ -23,19 +23,19 @@
   
 ## GitHub Stats
 
-
 <!--STREAKS and STATS-->
 <p align="center">
-  <img alt="Aditya's Github Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=TheNaiveSamosa&theme=dark&card_width=301">
-  <img alt="Aditya's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=TheNaiveSamosa&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&card_width=301">
-  <a href="https://github.com/TheNaiveSamosa"><img src="https://github-profile-trophy.vercel.app/?username=TheNaiveSamosa"></a>
+  <img alt="Aditya's Github Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=TheNaiveSamosa&theme=dark" />
+  <img alt="Aditya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheNaiveSamosa&show_icons=true&theme=dark" />
+  <a href="https://github.com/TheNaiveSamosa/"><img alt="Aditya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheNaiveSamosa&layout=compact&theme=dark" /></a>
 </p>
-  
-    
- <img alt="Aditya's github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=TheNaiveSamosa&bg_color=000001&color=ffffff&line=ffffff&point=403d3d&area=true&hide_border=false">
 
-  </p>
+<!-- GitHub Activity Graph for Commits -->
+<p align="center">
+  <img alt="GitHub Activity Graph for Commits" src="https://github-readme-activity-graph.vercel.app/graph?username=TheNaiveSamosa&bg_color=000001&color=ffffff&line=ffffff&point=403d3d&area=true&hide_border=false">
+</p>
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
+
 
 ## 🛠️ My favorite tools
 
