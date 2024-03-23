@@ -30,7 +30,7 @@
 <!--STREAKS and STATS-->
 <p align="center">
   <img alt="Aditya's Github Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=TheNaiveSamosa&theme=dark" />
-  <img alt="Aditya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheNaiveSamosa&show_icons=true&theme=dark" />
+  <img alt="Aditya's Github Stats" src="https://camo.githubusercontent.com/0ef5470d0ac78d9a25b3dee2717ddfa07d127312d0f3e4974cc1cd0456f86dff/68747470733a2f2f64656e766572636f646572312d6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d5468654e6169766553616d6f73612673686f775f69636f6e733d7472756526636f756e745f707269766174653d74727565267468656d653d7261646963616c26686964655f626f726465723d747275652662675f636f6c6f723d314632323245267469746c655f636f6c6f723d4638354437462669636f6e5f636f6c6f723d46384438363626636172645f77696474683d333031" />
   <a href="https://github.com/TheNaiveSamosa/"><img alt="Aditya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheNaiveSamosa&layout=compact&theme=dark" /></a>
 </p>
 
