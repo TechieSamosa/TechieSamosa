@@ -25,7 +25,7 @@
   <a href="https://leetcode.com/TheNaiveSamosa/" target="_blank"><img alt="LeetCode" title="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
   <a href="https://auth.geeksforgeeks.org/user/thenaivesamosa/" target="_blank"><img alt="Geeks for Geeks" title="Geeks for Geeks" src="https://img.shields.io/badge/-Geeks%20for%20Geeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
 </p>
-  
+
   
 ## GitHub Stats
 
