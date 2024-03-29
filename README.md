@@ -19,11 +19,11 @@
 
 <!-- Badges template - https://github.com/badges/shields -->
 <p align="center">
-  <a href="https://twitter.com/Couch_Potatoh_"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://www.instagram.com/couch_potatoh_/"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/adityakhamitkar/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://leetcode.com/TheNaiveSamosa/"><img alt="LeetCode" title="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-  <a href="https://auth.geeksforgeeks.org/user/thenaivesamosa/"><img alt="Geeks for Geeks" title="Geeks for Geeks" src="https://img.shields.io/badge/-Geeks%20for%20Geeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+  <a href="https://twitter.com/Couch_Potatoh_" target="_blank"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.instagram.com/couch_potatoh_/" target="_blank"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/adityakhamitkar/" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://leetcode.com/TheNaiveSamosa/" target="_blank"><img alt="LeetCode" title="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="https://auth.geeksforgeeks.org/user/thenaivesamosa/" target="_blank"><img alt="Geeks for Geeks" title="Geeks for Geeks" src="https://img.shields.io/badge/-Geeks%20for%20Geeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
 </p>
   
   
