@@ -27,7 +27,7 @@ jobs:
         with:
           ref: output
           repository: ${{ github.repository }}
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.MY_GITHUB_TOKEN }}
 
       - name: Move SVG to output branch
         run: |
