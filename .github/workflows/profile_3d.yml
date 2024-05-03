@@ -14,27 +14,11 @@ jobs:
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: TheNaiveSamosa   # Change the username here
+          USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
           git commit -m "generated"
-          git push
-      - name: Push SVG to output branch
-        uses: actions/checkout@v2
-        with:
-          ref: output
-        if: success()
-      - name: Move SVG to output branch
-        run: |
-          mkdir -p output
-          mv generated/* output/
-      - name: Commit & Push to output branch
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add -A .
-          git commit -m "Generated SVG to output branch"
           git push
