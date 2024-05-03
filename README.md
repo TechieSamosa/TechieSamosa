@@ -29,17 +29,25 @@
   
 ## GitHub Stats
 
-<!--STREAKS and STATS-->
+<!-- STREAKS and STATS -->
 <p align="center">
-  <img alt="Aditya's Github Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=TheNaiveSamosa&theme=dark" />
+  <img alt="Aditya's Github Streaks" src="https://streak-stats.demolab.com/?user=TheNaiveSamosa&theme=gotham" />
   <img alt="Aditya's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=TheNaiveSamosa&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&card_width=301"/>
-  <a href="https://github.com/TheNaiveSamosa/"><img alt="Aditya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheNaiveSamosa&layout=compact&theme=dark" /></a>
 </p>
 
 <!-- GitHub Activity Graph for Commits -->
-<p align="center">
-  <img alt="GitHub Activity Graph for Commits" src="https://github-readme-activity-graph.vercel.app/graph?username=TheNaiveSamosa&bg_color=000001&color=ffffff&line=ffffff&point=403d3d&area=true&hide_border=false">
-</p>
+<div align="center">
+  <img alt="snek" src="https://github.com/TheNaiveSamosa/TheNaiveSamosa/blob/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+## Contribution Graphs
+
+<!-- 3D Contribution Graph -->
+<img src="profile-3d-contrib/profile-night-green.svg" alt="contribution-graph-3d" width="100%">
+
+<!-- GitHub Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheNaiveSamosa&bg_color=12111d&color=ffffff&line=1055e0&point=00ff11&area=true&hide_border=true" alt="contribution-graph" width="100%">
+
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
 
