@@ -106,3 +106,4 @@
     <a href="#"><img alt="Fedora" src="https://img.shields.io/badge/-Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"></a>
     <a href="#"><img alt="Kali Linux" src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kali%20linux&logoColor=white"></a>
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TheNaiveSamosa&label=Profile%20views&color=0e75b6&style=flat" alt="TheNaiveSamosa" /> </p>
