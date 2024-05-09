@@ -43,7 +43,7 @@
 ## Contribution Graphs
 
 <!-- 3D Contribution Graph -->
-<img src="profile-3d-contrib/profile-night-green.svg" alt="contribution-graph-3d" width="100%">
+<img src="profile-3d-contrib/profile-night-view.svg" alt="contribution-graph-3d" width="100%">
 
 <!-- GitHub Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheNaiveSamosa&bg_color=12111d&color=ffffff&line=1055e0&point=00ff11&area=true&hide_border=true" alt="contribution-graph" width="100%">
