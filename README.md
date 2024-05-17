@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/D4D12AQFOan67rg3q8Q/article-cover_image-shrink_720_1280/0/1693761336583?e=1715817600&v=beta&t=rGOyAplhJMx3gxqonyh_x4tbcrR2m62RVOrFg76h1Zw" width="75%">
+  <img src="https://github.com/TheNaiveSamosa/TheNaiveSamosa/blob/8de85bbc82c78573e79ab36229819701c2a338e8/Assets/image-2.png" width="80%">
 </p>
 
 <blockquote align="center">
