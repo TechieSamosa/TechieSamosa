@@ -11,10 +11,6 @@
   <img src="https://github.com/TheNaiveSamosa/TheNaiveSamosa/blob/8de85bbc82c78573e79ab36229819701c2a338e8/Assets/image-2.png" width="80%">
 </p>
 
-<blockquote align="center">
-  <p>मा कदापि त्यज</p>
-</blockquote>
-
 ## 🙋‍♂️ Connect with me
 
 <p align="center">
