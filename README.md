@@ -1,15 +1,18 @@
 <h1 align="center">
-  नमस्कार:! I'm Aditya Khamitkar!
+  नमस्कार! I'm Aditya Khamitkar!
 </h1>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?center=True&lines=ML+Engineer;AI+Engineer;Data+Scientist;Research;Scientist"><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=42F548&center=true&vCenter=true&width=435&lines=ML+Engineer;AI+Engineer;Data+Scientist;Research+Scientist;Data+Engineer" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/TechieSamosa/TechieSamosa/blob/8de85bbc82c78573e79ab36229819701c2a338e8/Assets/image-2.png" width="80%">
+  <img src="https://github.com/TechieSamosa/TechieSamosa/raw/main/Assets/image-2.png" width="80%" alt="Aditya Banner">
 </p>
+
+---
+
 
 ### 🤝 Connect with me:
 
