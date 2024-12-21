@@ -33,7 +33,6 @@
 <!-- STREAKS and STATS -->
 <p align="center">
   <img alt="Aditya's Github Streaks" src="https://streak-stats.demolab.com/?user=TechieSamosa&theme=gotham" />
-  <img alt="Aditya's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=TechieSamosa&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&card_width=301"/>
 </p>
 
 <!-- GitHub Activity Graph for Commits -->
