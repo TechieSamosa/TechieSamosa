@@ -2,9 +2,8 @@
   नमस्कार! I'm Aditya Khamitkar!
 </h1>
 
-<!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=42F548&center=true&vCenter=true&width=435&lines=ML+Engineering;AI+Engineering;Data+Scientist;Research;Mathematics and Statistics;Data+Engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=42F548&center=true&vCenter=true&width=435&lines=ML+Engineering;AI+Engineering;Data+Scientist;Research;Mathematics+and+Statistics;Data+Engineering" alt="Typing SVG of my skills" />
 </p>
 
 <p align="center">
