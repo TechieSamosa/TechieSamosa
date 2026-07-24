@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Top Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1b26,65:7aa2f7,100:00f5d4&height=170&section=header&text=Hey,%20I'm%20Aditya%20%F0%9F%93%A1&fontSize=42&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Systems%20%C2%B7%20Distributed%20Systems%20%C2%B7%20Applied%20AI/ML&descSize=18&descAlignY=60&descColor=00f5d4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1b26,65:7aa2f7,100:00f5d4&height=170&section=header&text=Hey,%20I'm%20Aditya%20Khamitkar%F0%9F%93%A1&fontSize=42&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Architecting%20the%20Intersection%20of%20Data%2C%20AI%20%26%20Distributed%20Systems&descSize=18&descAlignY=60&descColor=00f5d4" width="100%"/>
 
 ```text
  █████╗ ██████╗ ██╗████████╗██╗   ██╗ █████╗ 
